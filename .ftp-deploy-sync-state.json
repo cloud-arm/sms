@@ -1,0 +1,53 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1712477152366,
+    "data": [
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 5,
+            "hash": "39c6e0a4ee3e4574dff603ca7b1bd63b7b2457a1f92c7b1dcae888fb2ebfc0d9"
+        },
+        {
+            "type": "folder",
+            "name": "api"
+        },
+        {
+            "type": "file",
+            "name": "auth.php",
+            "size": 281,
+            "hash": "d0fc83763a031d010dbed073fd6f37de4e28103cb9a02ce7035932f98e269b0f"
+        },
+        {
+            "type": "file",
+            "name": "dounbr.php",
+            "size": 6768,
+            "hash": "7d6b502d6c59614041fa708209ffd0213f8942fed42cf888f2bb825649b1ab24"
+        },
+        {
+            "type": "file",
+            "name": "head.php",
+            "size": 3860,
+            "hash": "4b883b19b1f85e3fa9b94baab96fce1f1f93ae97c08fb9cd8335914c92b42833"
+        },
+        {
+            "type": "file",
+            "name": "index.php",
+            "size": 24710,
+            "hash": "422799e41a584f2753fd0e846f9e5632d8bf25c0d9cf9f52250ac243add8f494"
+        },
+        {
+            "type": "file",
+            "name": "sidebar.php",
+            "size": 24839,
+            "hash": "eaaad2b4b7b0522076a556c33f686645da418b50a6eb04205e3fee8bc3675d05"
+        },
+        {
+            "type": "file",
+            "name": "api/send.php",
+            "size": 1007,
+            "hash": "28e677e888b12e542645c99f8606a4631d650afda483014ea39ac1b828232160"
+        }
+    ]
+}
