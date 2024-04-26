@@ -2,7 +2,7 @@
   <div class="pull-right hidden-xs">
     <b>Version</b> 1.2
   </div>
-  <strong>Copyright &copy; <a href="http://cloudarmsoft.com">CLOUD ARM</a>.</strong>
+  <strong>Copyright &copy; 2024. All Right Reserved By <a href="http://cloudarmsoft.com">CLOUD ARM</a>.</strong>
 </footer>
 
 <!-- Control Sidebar -->
