@@ -64,6 +64,7 @@ include("connect.php");
                                         <th width="10px">ID</th>
                                         <th>Number</th>
                                         <th>Action</th>
+                                        <th>#</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -80,6 +81,7 @@ include("connect.php");
                                             <td><?php echo $row['id']  ?></td>
                                             <td><?php echo $row['number']  ?></td>
                                             <td><?php echo $row['action']  ?></td>
+                                            <td></td>
                                         </tr>
 
                                     <?php } ?>

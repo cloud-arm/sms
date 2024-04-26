@@ -112,18 +112,18 @@
           </a>
         </li>
 
-        <li class="<?php if ($f == 'message_add') {
+        <li class="<?php if ($f == 'sms_add') {
                       echo 'active';
                     } ?>">
-          <a href="message_add.php">
+          <a href="sms_add.php">
             <i class="fa fa-envelope"></i> <span>New Message</span>
           </a>
         </li>
 
-        <li class="<?php if ($f == 'message') {
+        <li class="<?php if ($f == 'sms_manager') {
                       echo 'active';
                     } ?>">
-          <a href="#message_manager.php">
+          <a href="#sms_manager.php">
             <i class="fa fa-database"></i> <span>Message Manager</span>
             <span class="pull-right-container">
               <i class="fa fa-spinner fa-spin pull-right"></i>
